@@ -1,3 +1,46 @@
+Trying to read through [Ilya's 30 papers](https://github.com/AnupBhat30/ilya-sutskever-ai-reading-list)
+
+Progress tracker:
+## Beginner Path
+- [ ] CS231n Course
+- [ ] The Unreasonable Effectiveness of RNNs
+- [ ] Understanding LSTM Networks
+- [ ] The Annotated Transformer
+- [ ] ImageNet Classification with Deep CNNs
+
+## Intermediate Path
+- [ ] Deep Residual Learning (ResNet)
+- [ ] Attention Is All You Need
+- [ ] Neural Machine Translation (Attention)
+- [ ] Pointer Networks
+- [ ] RNN Regularization
+- [ ] Generating Sequences With RNNs
+- [ ] On the difficulty of training RNNs
+- [ ] Identity Mappings in ResNets
+- [ ] Order Matters (Sets)
+- [ ] Dilated Convolutions
+
+## Advanced Path
+- [ ] Neural Turing Machines
+- [ ] Relational Reasoning Module
+- [ ] Relational RNNs
+- [ ] Variational Lossy Autoencoder
+- [ ] GPipe
+- [ ] Deep Speech 2
+- [ ] Neural Quantum Chemistry
+- [ ] ML: The High-Interest Credit Card of Technical Debt
+
+## Theory & Foundations
+- [ ] First Law of Complexodynamics
+- [ ] Coffee Automaton (Complexity)
+- [ ] Scaling Laws for LLMs
+- [ ] MDL Tutorial
+- [ ] MDL for Neural Networks
+
+## Doctoral Level
+- [ ] Machine Super Intelligence
+- [ ] Kolmogorov Complexity (Chapter 7)
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
