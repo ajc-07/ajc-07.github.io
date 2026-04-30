@@ -70,11 +70,11 @@ As for the math:
 - $$K(S)$$ = how "complex" is this explanation
 - $$K(x \mid S)$$ = complexity of shortest program that can specify $$x$$ within $$S$$
 
-$$K(x\mid S) \geq \log_2(|S|) - c$$
+$$K(x\mid S) \geq \log_2(\vert S \vert) - c$$
 
 This is a condition for the sophistication function, essentially in a world such that $$x$$ seems like a random draw from $$S$$.
 
-Note that $$K(x\mid S)$$ is hard upper bound by $$\log_2(|S|)$$, and our condition requires that to be close to the max, meaning $$x$$ must appear "random" within $$S$$.
+Note that $$K(x\mid S)$$ is hard upper bound by $$\log_2(\vert S \vert)$$, and our condition requires that to be close to the max, meaning $$x$$ must appear "random" within $$S$$.
 
 This ensures that our model $$S$$ is a plausible explanation and not "overfit", basically eliminating this overfitting factor from our definition.
 
