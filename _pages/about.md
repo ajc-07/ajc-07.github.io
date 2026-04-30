@@ -15,7 +15,7 @@ Progress tracker:
 
 ## Foundational Concepts
 
-- [x] 1. The First Law of Complexodynamics
+- [x] 1. ~~The First Law of Complexodynamics~~
 - [ ] 2. The Unreasonable Effectiveness of RNNs
 - [ ] 3. Understanding LSTM Networks
 - [ ] 4. RNN Regularization
