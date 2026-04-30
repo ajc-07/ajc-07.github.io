@@ -7,49 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-Trying to read through [Ilya's 30 papers](https://github.com/AnupBhat30/ilya-sutskever-ai-reading-list)
+Trying to read through [Ilya's 30 papers](https://github.com/pageman/sutskever-30-implementations)
 
 Progress tracker:
-## Beginner Path
-- [ ] CS231n Course
-- [ ] The Unreasonable Effectiveness of RNNs
-- [ ] Understanding LSTM Networks
-- [ ] The Annotated Transformer
-- [ ] ImageNet Classification with Deep CNNs
 
-## Intermediate Path
-- [ ] Deep Residual Learning (ResNet)
-- [ ] Attention Is All You Need
-- [ ] Neural Machine Translation (Attention)
-- [ ] Pointer Networks
-- [ ] RNN Regularization
-- [ ] Generating Sequences With RNNs
-- [ ] On the difficulty of training RNNs
-- [ ] Identity Mappings in ResNets
-- [ ] Order Matters (Sets)
-- [ ] Dilated Convolutions
+---
 
-## Advanced Path
-- [ ] Neural Turing Machines
-- [ ] Relational Reasoning Module
-- [ ] Relational RNNs
-- [ ] Variational Lossy Autoencoder
-- [ ] GPipe
-- [ ] Deep Speech 2
-- [ ] Neural Quantum Chemistry
-- [ ] ML: The High-Interest Credit Card of Technical Debt
+## Foundational Concepts
 
-## Theory & Foundations
-- [ ] First Law of Complexodynamics
-- [ ] Coffee Automaton (Complexity)
-- [ ] Scaling Laws for LLMs
-- [ ] MDL Tutorial
-- [ ] MDL for Neural Networks
+- [ ] 1. The First Law of Complexodynamics
+- [ ] 2. The Unreasonable Effectiveness of RNNs
+- [ ] 3. Understanding LSTM Networks
+- [ ] 4. RNN Regularization
+- [ ] 5. Keeping Neural Networks Simple
 
-## Doctoral Level
-- [ ] Machine Super Intelligence
-- [ ] Kolmogorov Complexity (Chapter 7)
+---
 
+## Architectures & Mechanisms
+
+- [ ] 6. Pointer Networks
+- [ ] 7. ImageNet/AlexNet
+- [ ] 8. Order Matters: Seq2Seq for Sets
+- [ ] 9. GPipe
+- [ ] 10. Deep Residual Learning (ResNet)
+- [ ] 11. Dilated Convolutions
+- [ ] 12. Neural Message Passing (GNNs)
+- [ ] 13. Attention Is All You Need
+- [ ] 14. Neural Machine Translation
+- [ ] 15. Identity Mappings in ResNet
+
+---
+
+## Advanced Topics
+
+- [ ] 16. Relational Reasoning
+- [ ] 17. Variational Lossy Autoencoder
+- [ ] 18. Relational RNNs
+- [ ] 19. The Coffee Automaton
+- [ ] 20. Neural Turing Machines
+- [ ] 21. Deep Speech 2 (CTC)
+- [ ] 22. Scaling Laws
+
+---
+
+## Theory & Meta-Learning
+
+- [ ] 23. MDL Principle
+- [ ] 24. Machine Super Intelligence
+- [ ] 25. Kolmogorov Complexity
+- [ ] 26. CS231n: CNNs for Visual Recognition
+- [ ] 27. Multi-token Prediction
+- [ ] 28. Dense Passage Retrieval
+- [ ] 29. Retrieval-Augmented Generation
+- [ ] 30. Lost in the Middle
 
 
 
