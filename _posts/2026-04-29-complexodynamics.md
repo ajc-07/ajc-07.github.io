@@ -6,7 +6,7 @@ tags:
   - ilya-30
 ---
 
-https://scottaaronson.blog/?p=762
+Original: https://scottaaronson.blog/?p=762
 
 ### *Why does "complexity" or "interestingness" of physical systems seem to increase with time and then hit a maximum and decrease in contrast to entropy, which of course increases monotonically?*
 
